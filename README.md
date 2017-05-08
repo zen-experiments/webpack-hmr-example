@@ -14,4 +14,4 @@ A include-all (hopefully) example on how to setup development for a SPA/MPA appl
 
 `yarn watch`
 
-then access localhost:4000
+then access ()[localhost:4000]
