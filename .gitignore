@@ -35,3 +35,11 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+# Build/Install artifacts
+dist/
+.cache/
+.archive/
+.yo-rc.json
+yarn.lock
+.env
